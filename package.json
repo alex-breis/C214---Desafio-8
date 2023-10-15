@@ -1,0 +1,15 @@
+{
+  "name": "c214-desafio8",
+  "version": "1.0.0",
+  "description": "Repositório para o desafio 8 do laboratório de C214.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
